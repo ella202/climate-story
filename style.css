@@ -1,0 +1,68 @@
+.carousel-caption4{
+
+  color: black;
+  padding-left: 20px;
+  padding-right: 20PX;
+  margin-bottom: 50px;
+  margin-top: 20px;
+}
+
+.carousel-caption1{
+
+  color: black;
+  padding-left: 20px;
+  padding-right: 20PX;
+}
+
+
+
+
+.carousel-caption2{
+
+  color: black;
+  padding-left: 20px;
+  padding-right: 20PX;
+}
+.carousel-indicators{
+  color: black;
+  padding-bottom: 50px;
+}
+
+.topper1{
+background: red;
+font-size: 20px;
+padding-bottom: 10px;
+margin-bottom: -20px;
+padding-top: 10px;
+}
+
+.topper2{
+  color: red;
+  background: black;
+  font-size: 50px;
+  margin-top: 10;
+  padding-top: 0px;
+
+}
+
+#body{
+  background: #BDBDBD;
+}
+
+.carousel-item{
+padding-top: 20px;
+
+}
+
+.topper3{
+  background: red;
+  font-size: 20px;
+  margin-top: 0;
+  padding-top: 0;
+
+}
+
+.headline{
+  font-size:12em;
+  font-weight: bolder;
+}
