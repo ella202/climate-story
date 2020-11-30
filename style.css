@@ -191,3 +191,23 @@ font-style: italic;
   margin-bottom: 20px;
 background-color: black;
 }
+.similar{
+  font-family: 'Nanum Gothic', sans-serif;
+  padding-left: 30px;
+}
+
+
+/* unvisited link */
+a:link {
+  color: black;
+}
+
+/* visited link */
+a:visited {
+  color: #cc66ff;
+}
+
+/* mouse over link */
+a:hover {
+  color: #66b3ff;
+}
