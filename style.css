@@ -4,7 +4,7 @@
   color: white;
   padding-left: 20px;
   padding-right: 20PX;
-  margin-bottom: 50px;
+  margin-bottom: 20px;
   margin-top: 20px;
   font-size: 20px;
   background-color: black;
@@ -15,7 +15,7 @@
   color: white;
   padding-left: 20px;
   padding-right: 20PX;
-  margin-bottom: 50px;
+  margin-bottom: 20px;
   margin-top: 20px;
   font-size: 20px;
   background-color: black;
@@ -26,7 +26,7 @@
   color: white;
   padding-left: 20px;
   padding-right: 20PX;
-  margin-bottom: 50px;
+  margin-bottom: 20px;
   margin-top: 20px;
   font-size: 20px;
   background-color: black;
@@ -37,7 +37,7 @@
   color: white;
   padding-left: 20px;
   padding-right: 20PX;
-  margin-bottom: 100px;
+  margin-bottom: 20px;
   margin-top: 20px;
   font-size: 20px;
   background-color: black;
@@ -95,6 +95,7 @@ font-family: 'Nanum Gothic', sans-serif;
 .byline{
 font-size: 20px;
 font-family: 'Nanum Gothic', sans-serif;
+font-style: italic;
 }
 .row{
   padding-top: 20px;
@@ -115,6 +116,7 @@ font-family: 'Nanum Gothic', sans-serif;
 }
 .h{
   font-family: 'Nanum Gothic', sans-serif;
+  padding-top: 10px;
 }
 
 .p3{
@@ -159,4 +161,33 @@ font-family: 'Nanum Gothic', sans-serif;
   margin-left: 20px;
   margin-right: 20px;
   padding-top: 20px;
+
+  margin-top:10;
+
+}
+.sidebar{
+  color: white;
+  background-color: red;
+  margin: auto;
+  padding-left: 30px;
+  padding-right: 30px;
+  font-family: 'Nanum Gothic', sans-serif;
+  padding-top: 20px;
+  margin-bottom: 5px;
+}
+.col-md-6{
+  font-family: 'Nanum Gothic', sans-serif;
+  background-color: black;
+  color: white;
+}
+
+.block1{
+  color: red;
+  font-family: 'Nanum Gothic', sans-serif;
+  font-weight: bolder;
+  font-size: 30px;
+  padding-top: 40px;
+  padding-bottom: 30px;
+  margin-bottom: 20px;
+background-color: black;
 }
